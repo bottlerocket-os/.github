@@ -12,7 +12,7 @@ The `bottlerocket-os` GitHub organization contains a number of repos. Feel free 
 
 - [`bottlerocket-os/bottlerocket`](https://github.com/bottlerocket-os/bottlerocket) the source to the operating system and associated tools.
 - [`bottlerocket-os/bottlerocket-update-operator`](https://github.com/bottlerocket-os/bottlerocket-update-operator) the source for the Kubernetes operator that automates updates to Bottlerocket.
-- [`bottlerocket-os/bottlerocket-esc-updater`](https://github.com/bottlerocket-os/bottlerocket-ecs-updater) the source for the service to automatically manage Bottlerocket updates in an Amazon ECS cluster.
+- [`bottlerocket-os/bottlerocket-ecs-updater`](https://github.com/bottlerocket-os/bottlerocket-ecs-updater) the source for the service to automatically manage Bottlerocket updates in an Amazon ECS cluster.
 - [`bottlerocket-os/bottlerocket-control-container`](https://github.com/bottlerocket-os/bottlerocket-control-container) the source for the control host container bundled with ECS and Kubernetes  AWS variants.
 - [`bottlerocket-os/bottlerocket-control-container`](https://github.com/bottlerocket-os/bottlerocket-control-container) the source for the  admin host container.
 - [`bottlerocket-os/bottlerocket-project-website`](https://github.com/bottlerocket-os/bottlerocket-project-website) the source for Bottlerocket's documentation on [bottlerocket.dev](https://bottlerocket.dev/).
