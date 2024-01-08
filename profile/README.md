@@ -25,3 +25,4 @@ The `bottlerocket-os` GitHub organization contains a number of repos. Feel free 
 - **Got a question?** Ask in our [discussions forum](https://github.com/bottlerocket-os/bottlerocket/discussions).
 - **Find a bug or suggest an improvement?** File an issue on the appropriate repo (just use [`bottlerocket-os/bottlerocket` issues](https://github.com/bottlerocket-os/bottlerocket/issues/new/choose) if you're unsure of where the issue goes).
 - **Have some code to contribute?** Read our [contributing document](https://github.com/bottlerocket-os/bottlerocket/blob/develop/CONTRIBUTING.md).
+- **Find a potential security issue?** Don't create a public issue on GitHub, see [SECURITY.md](https://github.com/bottlerocket-os/.github/blob/master/SECURITY.md) for the appropriate process.
