@@ -14,6 +14,7 @@ The `bottlerocket-os` GitHub organization contains a number of repos. Feel free 
 | ---- | ----------- |
 | [`bottlerocket-os/bottlerocket`](https://github.com/bottlerocket-os/bottlerocket) | Operating system images and tools |
 | [`bottlerocket-os/bottlerocket-core-kit`](https://github.com/bottlerocket-os/bottlerocket-core-kit) | Core operating system packages |
+| [`bottlerocket-os/bottlerocket-kernel-kit`](https://github.com/bottlerocket-os/bottlerocket-kernel-kit) | Linux kernels, bootloaders, firmware |
 | [`bottlerocket-os/bottlerocket-project-website`](https://github.com/bottlerocket-os/bottlerocket-project-website) | Bottlerocket's documentation on [bottlerocket.dev](https://bottlerocket.dev/) |
 | [`bottlerocket-os/bottlerocket-control-container`](https://github.com/bottlerocket-os/bottlerocket-control-container) | Control host container bundled with ECS and Kubernetes AWS variants |
 | [`bottlerocket-os/bottlerocket-admin-container`](https://github.com/bottlerocket-os/bottlerocket-admin-container) | Admin host container  |
